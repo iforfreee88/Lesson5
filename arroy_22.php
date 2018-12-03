@@ -9,7 +9,7 @@ $a = [
     5=>'пт',
     ];
 
-var_dump ($a);
+    var_dump ($a);
 
 $salary = [
     'Ivan'=>2000,
@@ -17,3 +17,5 @@ $salary = [
     'Ekaterina'=>2500,
 ];
     Var_dump ($salary);
+$salary['Irina']= 2700;
+    var_dump ($salary);
