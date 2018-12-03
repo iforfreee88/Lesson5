@@ -7,5 +7,5 @@ var_export($a);
 echo '<br>';
 echo $a[2];
 $a[]='2';
-echo <br>;
+echo '<br>';
 
